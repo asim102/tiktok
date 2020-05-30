@@ -214,7 +214,7 @@ def pilih():
                     else:
                         if zedd == '5':
                             os.system('rm -rf login.txt')
-                            os.system('xdg-open https://www.youtube.com/nganunymous')
+                            os.system('xdg-open https://www.youtube.com/UC4znrrC1oSJt73GXQ0BdPow')
                             keluar()
                         else:
                             if zedd == '0':
@@ -2154,7 +2154,7 @@ def gaz(toket, enable=True):
             print logo
             print 40 * '\x1b[1;97m\xe2\x95\x90'
             print '\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;91mDinonaktifkan'
-            raw_input('\n\x1b[1;91m[ \x1b[1;97mKembali \x1b[1;91m]')
+            raw_input('\n\x1b[1;91m[ \x1b[1;97mAsim Pardasi \x1b[1;91m]')
             lain()
         else:
             print '\x1b[1;91m[!] Error'
